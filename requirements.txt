@@ -7,3 +7,5 @@ joblib
 tqdm
 statsmodels
 pyriemann>=0.2.7
+meegkit
+pymanopt
